@@ -1,9 +1,10 @@
-var liczba1 = 21;
-var liczba2 = 0;
-var sumaLiczb = liczba1 + liczba2;
-var wpiszliczbe = sumaLiczb;
+function wynik(liczba1, liczba2){
 
-function wynik(){
+    var liczba1 = 11;
+    var liczba2 = 10;
+    var sumaLiczb = liczba1 + liczba2;
+   
+
     if (liczba1 == 20){
         return true;
     }
